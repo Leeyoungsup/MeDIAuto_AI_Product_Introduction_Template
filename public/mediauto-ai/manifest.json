@@ -1,0 +1,547 @@
+{
+  "product": "MeDIAuto AI",
+  "captured_at": "2026-10-13T12:49:17.745164+09:00",
+  "capture_method": "Live authenticated app, actual stored AI results replayed through unchanged result-rendering functions via browser-only hooks. Same viewport; only AI visibility changes. No new inference and no edited results saved.",
+  "size": [
+    1600,
+    1000
+  ],
+  "pairs": [
+    {
+      "id": "he-breast-context",
+      "feature": "Quanti HE · Breast",
+      "view": "context",
+      "before": "images/he-breast-context/before.png",
+      "after": "images/he-breast-context/after.png",
+      "before_label": "원본 · AI 표시 OFF",
+      "after_label": "AI 세포 분석 · ON",
+      "registration": {
+        "center_x": 25600.4008715863,
+        "center_y": 50199.744386984334,
+        "zoom": 0.1312915,
+        "effective_mpp": 2,
+        "width": 1600,
+        "height": 1000,
+        "color_correction": false
+      },
+      "base_canvas_identical": true,
+      "source_cache_sha256": "fd99b6bf36ce9f1cb7346d8013b9a9b4b70291ae27b204d564bf5fcbbaf89ad0",
+      "before_sha256": "05447c0f54beb4d6971bc495734e834e3256b6932f87a5f26d2c4776c4167a96",
+      "after_sha256": "929fc5054e2def88af3c8cf103e19af8620466bbad5bf2c878899c0c911c0da8",
+      "result_cell_count": 589112,
+      "source_slide_hash": "3816e423a813777380147c9920f27789cfbbe4ac8cf40bc797bc9e5450493181",
+      "thresholds": {
+        "0": 0.1,
+        "2": 0.1,
+        "3": 0.1,
+        "4": 0.1,
+        "5": 0.1,
+        "6": 0.1,
+        "7": 0.1
+      },
+      "web": {
+        "before": "images/he-breast-context/before.webp",
+        "after": "images/he-breast-context/after.webp"
+      }
+    },
+    {
+      "id": "he-breast-detail",
+      "feature": "Quanti HE · Breast",
+      "view": "detail",
+      "before": "images/he-breast-detail/before.png",
+      "after": "images/he-breast-detail/after.png",
+      "before_label": "원본 · AI 표시 OFF",
+      "after_label": "AI 세포 분석 · ON",
+      "registration": {
+        "center_x": 25600.4008715863,
+        "center_y": 50199.744386984334,
+        "zoom": 0.525166,
+        "effective_mpp": 0.5,
+        "width": 1600,
+        "height": 1000,
+        "color_correction": false
+      },
+      "base_canvas_identical": true,
+      "source_cache_sha256": "fd99b6bf36ce9f1cb7346d8013b9a9b4b70291ae27b204d564bf5fcbbaf89ad0",
+      "before_sha256": "befe02cc6ed65632da0d5c2904710858239d195f4ba9059da0b6c8ec5742f34f",
+      "after_sha256": "620008e848aa6ead9f8a61341d7bfb97c6cb1762b55d59117e42b72e499f50be",
+      "result_cell_count": 589112,
+      "source_slide_hash": "3816e423a813777380147c9920f27789cfbbe4ac8cf40bc797bc9e5450493181",
+      "thresholds": {
+        "0": 0.1,
+        "2": 0.1,
+        "3": 0.1,
+        "4": 0.1,
+        "5": 0.1,
+        "6": 0.1,
+        "7": 0.1
+      },
+      "web": {
+        "before": "images/he-breast-detail/before.webp",
+        "after": "images/he-breast-detail/after.webp"
+      }
+    },
+    {
+      "id": "he-stomach-context",
+      "feature": "Quanti HE · Stomach",
+      "view": "context",
+      "before": "images/he-stomach-context/before.png",
+      "after": "images/he-stomach-context/after.png",
+      "before_label": "원본 · AI 표시 OFF",
+      "after_label": "AI 세포 분석 · ON",
+      "registration": {
+        "center_x": 11316.954674698787,
+        "center_y": 7128.599855421687,
+        "zoom": 0.11485539802480049,
+        "effective_mpp": 2,
+        "width": 1600,
+        "height": 1000,
+        "color_correction": true
+      },
+      "base_canvas_identical": true,
+      "source_cache_sha256": "3b5046af821338b7624689e6435e23267c843704f23a52c3f7b6abfbe0393793",
+      "before_sha256": "eae4ba8196edc81e05b003e9a81665ac0994184e5bf052e5e5f41c6d4a32c022",
+      "after_sha256": "ef55b4ee8ada3af26835a28cfdd11bc06c867aaa2f556e1a6a185dade5645908",
+      "result_cell_count": 13805,
+      "source_slide_hash": "26dab67a05f69f3668584c85469d30519be4579356a28c86b78cd1c0828672b6",
+      "thresholds": {
+        "0": 0.1,
+        "2": 0.1,
+        "3": 0.1,
+        "4": 0.1,
+        "5": 0.1,
+        "6": 0.1,
+        "7": 0.1
+      },
+      "web": {
+        "before": "images/he-stomach-context/before.webp",
+        "after": "images/he-stomach-context/after.webp"
+      }
+    },
+    {
+      "id": "he-stomach-detail",
+      "feature": "Quanti HE · Stomach",
+      "view": "detail",
+      "before": "images/he-stomach-detail/before.png",
+      "after": "images/he-stomach-detail/after.png",
+      "before_label": "원본 · AI 표시 OFF",
+      "after_label": "AI 세포 분석 · ON",
+      "registration": {
+        "center_x": 11316.954674698787,
+        "center_y": 7128.599855421687,
+        "zoom": 0.45942159209920197,
+        "effective_mpp": 0.5,
+        "width": 1600,
+        "height": 1000,
+        "color_correction": true
+      },
+      "base_canvas_identical": true,
+      "source_cache_sha256": "3b5046af821338b7624689e6435e23267c843704f23a52c3f7b6abfbe0393793",
+      "before_sha256": "7dad21f1d7742185984bb15e6736c03c2d7dd03122ebeab589a8e748f3dd7381",
+      "after_sha256": "5bed5b13263f625753d97625824356d15f38162058c427b83028fcecfc8971ab",
+      "result_cell_count": 13805,
+      "source_slide_hash": "26dab67a05f69f3668584c85469d30519be4579356a28c86b78cd1c0828672b6",
+      "thresholds": {
+        "0": 0.1,
+        "2": 0.1,
+        "3": 0.1,
+        "4": 0.1,
+        "5": 0.1,
+        "6": 0.1,
+        "7": 0.1
+      },
+      "web": {
+        "before": "images/he-stomach-detail/before.webp",
+        "after": "images/he-stomach-detail/after.webp"
+      }
+    },
+    {
+      "id": "her2-context",
+      "feature": "Quanti IHC · HER2",
+      "view": "context",
+      "before": "images/her2-context/before.png",
+      "after": "images/her2-context/after.png",
+      "before_label": "원본 · AI 표시 OFF",
+      "after_label": "AI 세포 분석 · ON",
+      "registration": {
+        "center_x": 31652.14597319343,
+        "center_y": 54164.08712121207,
+        "zoom": 0.1312915,
+        "effective_mpp": 2,
+        "width": 1600,
+        "height": 1000,
+        "color_correction": false
+      },
+      "base_canvas_identical": true,
+      "source_cache_sha256": "4f5f9b35eb52bbbf739bc5369dffc8f1bc3fd56e486fbc8343c191c9bca6c6f8",
+      "before_sha256": "6f4f67878ce4953fb8940824f1da5237d1d494e5cf106abdcf1e9296449976f6",
+      "after_sha256": "ddda7192037350eade37ea4efe6a5968934a6b720c5d48c0123d4080e6cb1c43",
+      "result_cell_count": 248003,
+      "source_slide_hash": "4e461a9f78367f88371f99078cb0d39de849461c284855aa54635cafa7ae4317",
+      "thresholds": {
+        "0": 0.5,
+        "1": 0.5,
+        "2": 0.5,
+        "3": 0.5
+      },
+      "web": {
+        "before": "images/her2-context/before.webp",
+        "after": "images/her2-context/after.webp"
+      }
+    },
+    {
+      "id": "her2-detail",
+      "feature": "Quanti IHC · HER2",
+      "view": "detail",
+      "before": "images/her2-detail/before.png",
+      "after": "images/her2-detail/after.png",
+      "before_label": "원본 · AI 표시 OFF",
+      "after_label": "AI 세포 분석 · ON",
+      "registration": {
+        "center_x": 31652.14597319343,
+        "center_y": 54164.08712121207,
+        "zoom": 0.525166,
+        "effective_mpp": 0.5,
+        "width": 1600,
+        "height": 1000,
+        "color_correction": false
+      },
+      "base_canvas_identical": true,
+      "source_cache_sha256": "4f5f9b35eb52bbbf739bc5369dffc8f1bc3fd56e486fbc8343c191c9bca6c6f8",
+      "before_sha256": "cdc719ec336fca3a5d45b64d126c09ee8e975ad3bb9c21062b851a3d28e700d8",
+      "after_sha256": "05877b1f617f7b64a617311e8efe09ce99a3a2739022cdbbe891ea2a332d9a74",
+      "result_cell_count": 248003,
+      "source_slide_hash": "4e461a9f78367f88371f99078cb0d39de849461c284855aa54635cafa7ae4317",
+      "thresholds": {
+        "0": 0.5,
+        "1": 0.5,
+        "2": 0.5,
+        "3": 0.5
+      },
+      "web": {
+        "before": "images/her2-detail/before.webp",
+        "after": "images/her2-detail/after.webp"
+      }
+    },
+    {
+      "id": "virtual-he-context",
+      "feature": "VS IHC · Virtual H&E",
+      "view": "context",
+      "before": "images/virtual-he-context/before.png",
+      "after": "images/virtual-he-context/after.png",
+      "before_label": "원본 IHC",
+      "after_label": "Virtual H&E",
+      "registration": {
+        "center_x": 31652.14597319343,
+        "center_y": 54164.08712121207,
+        "zoom": 0.06564575,
+        "effective_mpp": 4,
+        "width": 1600,
+        "height": 1000,
+        "color_correction": false
+      },
+      "same_viewport": true,
+      "source_cache_sha256": "f79a2fba235f9dbb3b2f016cf97cc8caa984dd9e2a5e765258bbda8c1532b506",
+      "before_sha256": "e7847a7134e89a8b35ca081c861b1dc29e57d05ed1df5fce7733c64a5819dc62",
+      "after_sha256": "92e251b42e719ce64771e4aae6675ed8f9abcf752db5918564e915c0ebe9f86f",
+      "source_slide_hash": "4e461a9f78367f88371f99078cb0d39de849461c284855aa54635cafa7ae4317",
+      "generation_target_mpp": 2.0,
+      "web": {
+        "before": "images/virtual-he-context/before.webp",
+        "after": "images/virtual-he-context/after.webp"
+      }
+    },
+    {
+      "id": "virtual-he-detail",
+      "feature": "VS IHC · Virtual H&E",
+      "view": "detail",
+      "before": "images/virtual-he-detail/before.png",
+      "after": "images/virtual-he-detail/after.png",
+      "before_label": "원본 IHC",
+      "after_label": "Virtual H&E",
+      "registration": {
+        "center_x": 31652.14597319343,
+        "center_y": 54164.08712121207,
+        "zoom": 0.1312915,
+        "effective_mpp": 2,
+        "width": 1600,
+        "height": 1000,
+        "color_correction": false
+      },
+      "same_viewport": true,
+      "source_cache_sha256": "f79a2fba235f9dbb3b2f016cf97cc8caa984dd9e2a5e765258bbda8c1532b506",
+      "before_sha256": "6f4f67878ce4953fb8940824f1da5237d1d494e5cf106abdcf1e9296449976f6",
+      "after_sha256": "b65515ed0ff08d34108b290ec3d1dda83bd0b7333b8242595dbbd547acc728f7",
+      "source_slide_hash": "4e461a9f78367f88371f99078cb0d39de849461c284855aa54635cafa7ae4317",
+      "generation_target_mpp": 2.0,
+      "web": {
+        "before": "images/virtual-he-detail/before.webp",
+        "after": "images/virtual-he-detail/after.webp"
+      }
+    },
+    {
+      "id": "er-pr-context",
+      "feature": "Quanti IHC · ER/PR",
+      "view": "context",
+      "before": "images/er-pr-context/before.png",
+      "after": "images/er-pr-context/after.png",
+      "before_label": "원본 · AI 표시 OFF",
+      "after_label": "AI 세포 분석 · ON",
+      "registration": {
+        "center_x": 31736.542438118817,
+        "center_y": 54031.85321782182,
+        "zoom": 0.1312915,
+        "effective_mpp": 2,
+        "width": 1600,
+        "height": 1000,
+        "color_correction": false
+      },
+      "base_canvas_identical": true,
+      "source_cache_sha256": "d8fc1f905834f3028f678c2752a572fec1b314c7aedd532edd9ca7ae65d83bad",
+      "before_sha256": "d800843a9d3678899ed2ac371ea1f1871adda3e83e164c73111f45054e2f2b8d",
+      "after_sha256": "41d8fef27c32977c36d2bf63af32fe9d1c93eb4a001818cae2c81b8a36fc92f7",
+      "result_cell_count": 229303,
+      "source_slide_hash": "c66ba00ca11fd39a8f55f7ab7d376a48399e46b72a59c306c2246927635eefd5",
+      "thresholds": {
+        "0": 0.3,
+        "1": 0.3,
+        "2": 0.3,
+        "3": 0.3
+      },
+      "web": {
+        "before": "images/er-pr-context/before.webp",
+        "after": "images/er-pr-context/after.webp"
+      }
+    },
+    {
+      "id": "er-pr-detail",
+      "feature": "Quanti IHC · ER/PR",
+      "view": "detail",
+      "before": "images/er-pr-detail/before.png",
+      "after": "images/er-pr-detail/after.png",
+      "before_label": "원본 · AI 표시 OFF",
+      "after_label": "AI 세포 분석 · ON",
+      "registration": {
+        "center_x": 31736.542438118817,
+        "center_y": 54031.85321782182,
+        "zoom": 0.525166,
+        "effective_mpp": 0.5,
+        "width": 1600,
+        "height": 1000,
+        "color_correction": false
+      },
+      "base_canvas_identical": true,
+      "source_cache_sha256": "d8fc1f905834f3028f678c2752a572fec1b314c7aedd532edd9ca7ae65d83bad",
+      "before_sha256": "faac20c707eda2098459bab097b6d3ee028d9f69c89b4b908793eb40840b9a0e",
+      "after_sha256": "54bacd8d79ae6470f8504292a4a237c7284852979fe5fa1d334b43427d206047",
+      "result_cell_count": 229303,
+      "source_slide_hash": "c66ba00ca11fd39a8f55f7ab7d376a48399e46b72a59c306c2246927635eefd5",
+      "thresholds": {
+        "0": 0.3,
+        "1": 0.3,
+        "2": 0.3,
+        "3": 0.3
+      },
+      "web": {
+        "before": "images/er-pr-detail/before.webp",
+        "after": "images/er-pr-detail/after.webp"
+      }
+    },
+    {
+      "id": "ki67-context",
+      "feature": "Quanti IHC · Ki-67",
+      "view": "context",
+      "before": "images/ki67-context/before.png",
+      "after": "images/ki67-context/after.png",
+      "before_label": "원본 · AI 표시 OFF",
+      "after_label": "AI 세포 분석 · ON",
+      "registration": {
+        "center_x": 23600.322269938668,
+        "center_y": 35861.828926380374,
+        "zoom": 0.1312915,
+        "effective_mpp": 2,
+        "width": 1600,
+        "height": 1000,
+        "color_correction": false
+      },
+      "base_canvas_identical": true,
+      "source_cache_sha256": "04fe9020e0f4d92b8e72047d44e276d1f42ca9c36f8e49342854d574251b3bc5",
+      "before_sha256": "e8cedccee1f8c612e8e24f2912d507c9f1259d3d15955b7cd3706646725b9092",
+      "after_sha256": "bb6393e6fffe5b31149677c677a6dcde89322ae8dbe9068dc59a2238bdd174e6",
+      "result_cell_count": 199084,
+      "source_slide_hash": "6851e6bbb9b590f853c9c51a6afa2c3da323f86451e5f2549b0a1eb4d58436f1",
+      "thresholds": {
+        "0": 0.3,
+        "1": 0.3,
+        "2": 0.3,
+        "3": 0.3
+      },
+      "web": {
+        "before": "images/ki67-context/before.webp",
+        "after": "images/ki67-context/after.webp"
+      }
+    },
+    {
+      "id": "ki67-detail",
+      "feature": "Quanti IHC · Ki-67",
+      "view": "detail",
+      "before": "images/ki67-detail/before.png",
+      "after": "images/ki67-detail/after.png",
+      "before_label": "원본 · AI 표시 OFF",
+      "after_label": "AI 세포 분석 · ON",
+      "registration": {
+        "center_x": 23600.322269938668,
+        "center_y": 35861.828926380374,
+        "zoom": 0.525166,
+        "effective_mpp": 0.5,
+        "width": 1600,
+        "height": 1000,
+        "color_correction": false
+      },
+      "base_canvas_identical": true,
+      "source_cache_sha256": "04fe9020e0f4d92b8e72047d44e276d1f42ca9c36f8e49342854d574251b3bc5",
+      "before_sha256": "707cfd426c087cd9eb2a55dd4b1a037900dc92833a18b5a0b8c95f70124cceaa",
+      "after_sha256": "ed3ed57c6eb5ebbdbfcf53eb7d669c222bef6e423487c2cefa60321eeb98d32c",
+      "result_cell_count": 199084,
+      "source_slide_hash": "6851e6bbb9b590f853c9c51a6afa2c3da323f86451e5f2549b0a1eb4d58436f1",
+      "thresholds": {
+        "0": 0.3,
+        "1": 0.3,
+        "2": 0.3,
+        "3": 0.3
+      },
+      "web": {
+        "before": "images/ki67-detail/before.webp",
+        "after": "images/ki67-detail/after.webp"
+      }
+    },
+    {
+      "id": "pdl1-context",
+      "feature": "Quanti PD-L1 · CPS",
+      "view": "context",
+      "before": "images/pdl1-context/before.png",
+      "after": "images/pdl1-context/after.png",
+      "before_label": "원본 · AI 표시 OFF",
+      "after_label": "AI 세포 분석 · ON",
+      "registration": {
+        "center_x": 11208.30821561339,
+        "center_y": 25625.703003717466,
+        "zoom": 0.11485539802480049,
+        "effective_mpp": 2,
+        "width": 1600,
+        "height": 1000,
+        "color_correction": true
+      },
+      "base_canvas_identical": true,
+      "source_cache_sha256": "061920165f3dead78621cdfe990e20f3b9aca5c45afa85fbcf16a01c6723a52e",
+      "before_sha256": "05a34410fe70f2edae1efcfe288f6b8ca86e762dc51f9bfb5b085c2aab1a332b",
+      "after_sha256": "0dbb37e9065149d6bb4137de1102d445d55a773a87e8fdbcd843f54a5290156d",
+      "result_cell_count": 62043,
+      "source_slide_hash": "1c27db3c019587e378fd281a86631ab9c27cc972b038f5a4ce0a194691a34898",
+      "thresholds": {
+        "0": 0.1,
+        "1": 0.1,
+        "2": 0.1,
+        "3": 0.1,
+        "4": 0.1,
+        "5": 0.1
+      },
+      "web": {
+        "before": "images/pdl1-context/before.webp",
+        "after": "images/pdl1-context/after.webp"
+      }
+    },
+    {
+      "id": "pdl1-detail",
+      "feature": "Quanti PD-L1 · CPS",
+      "view": "detail",
+      "before": "images/pdl1-detail/before.png",
+      "after": "images/pdl1-detail/after.png",
+      "before_label": "원본 · AI 표시 OFF",
+      "after_label": "AI 세포 분석 · ON",
+      "registration": {
+        "center_x": 11208.30821561339,
+        "center_y": 25625.703003717466,
+        "zoom": 0.45942159209920197,
+        "effective_mpp": 0.5,
+        "width": 1600,
+        "height": 1000,
+        "color_correction": true
+      },
+      "base_canvas_identical": true,
+      "source_cache_sha256": "061920165f3dead78621cdfe990e20f3b9aca5c45afa85fbcf16a01c6723a52e",
+      "before_sha256": "82afbda68a8d4fbfa01a74f27a54c284775b8c3ca3c02aab7362f9defa0fbfa6",
+      "after_sha256": "779a54aa4b5da93ba913b4e95bc4abb8f7c5d00bb17c50116116a66d11df668a",
+      "result_cell_count": 62043,
+      "source_slide_hash": "1c27db3c019587e378fd281a86631ab9c27cc972b038f5a4ce0a194691a34898",
+      "thresholds": {
+        "0": 0.1,
+        "1": 0.1,
+        "2": 0.1,
+        "3": 0.1,
+        "4": 0.1,
+        "5": 0.1
+      },
+      "web": {
+        "before": "images/pdl1-detail/before.webp",
+        "after": "images/pdl1-detail/after.webp"
+      }
+    },
+    {
+      "id": "ai-assistance-context",
+      "feature": "AI 보조 라벨링",
+      "view": "context",
+      "before": "images/ai-assistance-context/before.png",
+      "after": "images/ai-assistance-context/after.png",
+      "before_label": "원본 패치",
+      "after_label": "AI 제안 세포 라벨",
+      "registration": {
+        "center_x": 21175.5,
+        "center_y": 14488.5,
+        "zoom": 0.7178106774338269,
+        "effective_mpp": 0.3200158527466003,
+        "width": 1600,
+        "height": 1000,
+        "color_correction": true
+      },
+      "base_canvas_identical": true,
+      "result_cell_count": 1082,
+      "label_source": "Existing GET assistance-cells response, displayed through CellAnnotationEditor.syncViewer; no manual annotation data used as AI predictions and no edits persisted.",
+      "source_slide_hash": "255564af704960cb46ddc5ce50003256005b850207b9c7261596cf5859dc7726",
+      "before_sha256": "e35c3d2441bd80957f624fab60531bf2ee8c52fb3db42f3c4d620d28b8a1deac",
+      "after_sha256": "6ea0b17727e20db5a33ba4ce46f41401e5266a59e4fb15b44def10067f3f51ab",
+      "web": {
+        "before": "images/ai-assistance-context/before.webp",
+        "after": "images/ai-assistance-context/after.webp"
+      }
+    },
+    {
+      "id": "ai-assistance-detail",
+      "feature": "AI 보조 라벨링",
+      "view": "detail",
+      "before": "images/ai-assistance-detail/before.png",
+      "after": "images/ai-assistance-detail/after.png",
+      "before_label": "원본 패치",
+      "after_label": "AI 제안 세포 라벨",
+      "registration": {
+        "center_x": 21175.5,
+        "center_y": 14488.5,
+        "zoom": 1.2920592193808884,
+        "effective_mpp": 0.1777865848592224,
+        "width": 1600,
+        "height": 1000,
+        "color_correction": true
+      },
+      "base_canvas_identical": true,
+      "result_cell_count": 1082,
+      "label_source": "Existing GET assistance-cells response, displayed through CellAnnotationEditor.syncViewer; no manual annotation data used as AI predictions and no edits persisted.",
+      "source_slide_hash": "255564af704960cb46ddc5ce50003256005b850207b9c7261596cf5859dc7726",
+      "before_sha256": "5e6e4f25b1a1c78822211b91117a25307ea9cd652fd322b836b836aa1f7d8378",
+      "after_sha256": "ac41da6efac37110b7e4df37d103a1cfceaa706c99edb3ff193fb1c78136eb16",
+      "web": {
+        "before": "images/ai-assistance-detail/before.webp",
+        "after": "images/ai-assistance-detail/after.webp"
+      }
+    }
+  ]
+}
